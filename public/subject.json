@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "subjectName": "Mathematics",
+    "subject": "Compulsory"
+  },
+  {
+    "id": 2,
+    "subjectName": "Science",
+    "subject": "Compulsory"
+  },
+  {
+    "id": 3,
+    "subjectName": "History",
+    "subject": "Compulsory"
+  },
+  {
+    "id": 4,
+    "subjectName": "Geography",
+    "subject": "Compulsory"
+  },
+  {
+    "id": 5,
+    "subjectName": "English",
+    "subject": "Compulsory"
+  },
+  {
+    "id": 6,
+    "subjectName": "Physics",
+    "subject": "Group Based"
+  },
+  {
+    "id": 7,
+    "subjectName": "Computer Science",
+    "subject": "Group Based"
+  },
+  {
+    "id": 8,
+    "subjectName": "Economics",
+    "subject": "Optional"
+  },
+  {
+    "id": 9,
+    "subjectName": "Physical Education",
+    "subject": "Optional"
+  }
+]

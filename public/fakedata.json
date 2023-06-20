@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "date": "2023-06-19",
+    "day": "Monday",
+    "status": "present"
+  },
+  {
+    "id": 2,
+    "date": "2023-06-20",
+    "day": "Tuesday",
+    "status": "absent"
+  },
+  {
+    "id": 3,
+    "date": "2023-06-21",
+    "day": "Wednesday",
+    "status": "present"
+  },
+  {
+    "id": 4,
+    "date": "2023-06-22",
+    "day": "Thursday",
+    "status": "absent"
+  },
+  {
+    "id": 5,
+    "date": "2023-06-23",
+    "day": "Friday",
+    "status": "present"
+  },
+  {
+    "id": 6,
+    "date": "2023-06-24",
+    "day": "Saturday",
+    "status": "present"
+  },
+  {
+    "id": 7,
+    "date": "2023-06-25",
+    "day": "Sunday",
+    "status": "absent"
+  },
+  {
+    "id": 8,
+    "date": "2023-06-26",
+    "day": "Monday",
+    "status": "present"
+  },
+  {
+    "id": 9,
+    "date": "2023-06-27",
+    "day": "Tuesday",
+    "status": "present"
+  },
+  {
+    "id": 10,
+    "date": "2023-06-28",
+    "day": "Wednesday",
+    "status": "absent"
+  }
+]

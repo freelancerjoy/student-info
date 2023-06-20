@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "exam": "Midterm Exam",
+    "letterGrade": "B+",
+    "gpa": 3.3,
+    "fullMarks": 100,
+    "obtainedMarks": 78,
+    "sectionPosition": 5,
+    "failSubject": 0
+  },
+  {
+    "id": 2,
+    "exam": "Final Exam",
+    "letterGrade": "A",
+    "gpa": 4.0,
+    "fullMarks": 100,
+    "obtainedMarks": 92,
+    "sectionPosition": 1,
+    "failSubject": 0
+  },
+  {
+    "id": 3,
+    "exam": "Quiz 1",
+    "letterGrade": "F",
+    "gpa": 0.0,
+    "fullMarks": 20,
+    "obtainedMarks": 10,
+    "sectionPosition": 10,
+    "failSubject": 2
+  },
+  {
+    "id": 4,
+    "exam": "Quiz 2",
+    "letterGrade": "B",
+    "gpa": 3.0,
+    "fullMarks": 20,
+    "obtainedMarks": 18,
+    "sectionPosition": 2,
+    "failSubject": 0
+  }
+]
