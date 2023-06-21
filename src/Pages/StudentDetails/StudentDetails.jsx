@@ -2,12 +2,12 @@ import React, { useEffect, useState } from "react";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 
 import Profile from "./Profile";
-import PersonalInfo from "./PersonalInfo";
+import StudentInFormation from "./StudentInformation/StudentInFormation";
 import Attendance from "./Attendance";
 import Exam from "./Exam";
 import Subjects from "./Subjects";
 
-const StudentInfo = () => {
+const StudentDetails = () => {
   const [tabIndex, setTabIndex] = useState(0);
   const [activeTab, setActiveTab] = useState("");
 
@@ -54,7 +54,7 @@ const StudentInfo = () => {
           </TabList>
           <hr className="border-black border mt-2 mb-3" />
           <TabPanel>
-            <PersonalInfo></PersonalInfo>
+            <StudentInFormation></StudentInFormation>
           </TabPanel>
           <TabPanel>
             <Attendance></Attendance>
@@ -74,4 +74,4 @@ const StudentInfo = () => {
   );
 };
 
-export default StudentInfo;
+export default StudentDetails;

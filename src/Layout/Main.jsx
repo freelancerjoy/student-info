@@ -1,10 +1,10 @@
 import React from "react";
-import StudentInfo from "../Pages/StudentInfo/StudentInfo";
+import StudentDetails from "../Pages/StudentDetails/StudentDetails";
 
 const Main = () => {
   return (
     <div>
-      <StudentInfo></StudentInfo>
+      <StudentDetails></StudentDetails>
     </div>
   );
 };
